@@ -157,35 +157,6 @@ inventory-invoice-analytics/
 
 ---
 
-<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/inventory-invoice-analytics.git
-```
-2. Train and Save Best Fit Models:
-```bash
-python freight_cost_prediction/train.py
-python invoice_flagging/train.py
-```
-3. Test Models:
-```bash
-python inference/predict_freight.py
-python inference/predict_invoice_flag.py
-``` 
-4. Open Application:
-```bash
-streamlit run app.py
-```
-
----
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
-
-**Ayushi Mishra**  
-Data Scientist  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
 
 
 
